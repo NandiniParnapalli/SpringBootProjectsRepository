@@ -1,0 +1,2 @@
+# SpringBootProjectsRepo
+ all practice projects
